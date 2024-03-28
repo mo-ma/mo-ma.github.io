@@ -19,7 +19,7 @@ My research interests are broadly within the field of theoretical computer scien
     <br>
 </div>
 
-**Prize-Collecting Steiner Tree: A $1.79$ Approximation** \
+**Prize-Collecting Steiner Tree: A 1.79 Approximation** \
   Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, Peyman Jabbarzade, and Mohammad Mahdavi\
   ACM Symposium on Theory of Computing (**STOC**) 2024
 
