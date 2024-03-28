@@ -5,12 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+**Prize-Collecting Steiner Tree: A $1.79$ Approximation** \
+  Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, Peyman Jabbarzade, and Mohammad Mahdavi\
+  ACM Symposium on Theory of Computing (**STOC**) 2024
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Regret Analysis of Repeated Delegated Choice** \
+  MohammadTaghi Hajiaghayi, Mohammad Mahdavi, Keivan Rezaei, and Suho Shin\
+  The Association for the Advancement of Artificial Intelligence (**AAAI**) 2024
+  
