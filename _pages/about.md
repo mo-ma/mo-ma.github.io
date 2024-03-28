@@ -11,8 +11,15 @@ I am a second-year Ph.D. student at the University of Maryland, where I have the
 
 My research interests are broadly within the field of theoretical computer science, with a specific focus on approximation algorithms for graph and game theory problems.
 
+<br>
+
 ### Publications
-**Prize-Collecting Steiner Tree: A 1.79 Approximation** \
+
+<div style="line-height:150%;">
+    <br>
+</div>
+
+**Prize-Collecting Steiner Tree: A $1.79$ Approximation** \
   Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, Peyman Jabbarzade, and Mohammad Mahdavi\
   ACM Symposium on Theory of Computing (**STOC**) 2024
 
