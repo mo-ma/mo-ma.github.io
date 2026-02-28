@@ -9,7 +9,20 @@ author_profile: true
     <br>
 </div>
 
-**Prize-Collecting Steiner Tree: A $1.79$ Approximation** \
+**Breaking a Long-Standing Barrier: 2-ε Approximation for Steiner Forest** \
+  Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, Peyman Jabbarzade, and Mohammad Mahdavi\
+IEEE Annual Symposium on Foundations of Computer Science (**FOCS**) 2025\
+**Best Paper Recipient**
+
+**Delegation with costly inspection** \
+MohammadTaghi Hajiaghayi, Piotr Krysta, Mohammad Mahdavi, Suho Shin\
+ACM Conference on Economics and Computation (**EC**) 2025
+
+**Prize-Collecting Forest with Submodular Penalties: Improved Approximation** \
+  Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, Peyman Jabbarzade, and Mohammad Mahdavi\
+International Conference on Integer Programming and Combinatorial Optimization (**IPCO**) 2025
+
+**Prize-Collecting Steiner Tree: A 1.79 Approximation** \
   Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, Peyman Jabbarzade, and Mohammad Mahdavi\
   ACM Symposium on Theory of Computing (**STOC**) 2024
 
@@ -19,8 +32,8 @@ author_profile: true
   
 **2-Approximation for Prize-Collecting Steiner Forest** \
   Ali Ahmadi, Iman Gholami, MohammadTaghi Hajiaghayi, Peyman Jabbarzade, and Mohammad Mahdavi\
-  ACM-SIAM Symposium on Discrete Algorithms (**SODA**) 2024
+  ACM-SIAM Symposium on Discrete Algorithms (**SODA**) 2024, later published in Journal of the ACM Vol. 72
 
 **Polynomial reachability witnesses via Stellensätze** \
 Ali Asadi, Krishnendu Chatterjee, Hongfei Fu, Amir Kafshdar Goharshady, Mohammad Mahdavi\
-  ACM SIGPLAN International Conference on Programming Language Design and Implementation (**PLDI**) 2021
+  ACM SIGPLAN International Conference on Programming Language Design and Implementation (**PLDI**) 2021  ACM SIGPLAN International Conference on Programming Language Design and Implementation (**PLDI**) 2021
